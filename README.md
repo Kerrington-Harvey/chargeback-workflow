@@ -4,8 +4,7 @@ Chargeback and dispute response framework designed as the founding Fraud Operati
 
 ## Documents
 
-- **Chargeback & Dispute Management Policy** - Full dispute response workflow, chargeback type classification, friendly fraud detection, and Stripe integration overview [Custie_Chargeback_Policy.docx](https://github.com/user-attachments/files/25597134/Custie_Chargeback_Policy.docx)
-
+- **Chargeback & Dispute Management Policy** - Full dispute response workflow, chargeback type classification, friendly fraud detection, and Stripe integration overview [Custie_Chargeback_Policy.pdf.pdf](https://github.com/user-attachments/files/25597320/Custie_Chargeback_Policy.pdf.pdf)
 
 ## Key Highlights
 
