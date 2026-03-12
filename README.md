@@ -1,6 +1,6 @@
 # Chargeback & Dispute Management Framework
 
-Chargeback and dispute response framework designed as the founding Fraud Operations Manager at Custie, a B2B/B2C pet-care platform. Built in preparation for transaction-scale operations using Stripe as the payment processor.
+Chargeback and dispute response framework designed as the founding Fraud Operations Manager at Custie, a technology platform. Built in preparation for transaction-scale operations using Stripe as the payment processor.
 
 ## Documents
 
